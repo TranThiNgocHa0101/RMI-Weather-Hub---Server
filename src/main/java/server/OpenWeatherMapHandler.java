@@ -15,7 +15,7 @@ import java.util.List;
 public class OpenWeatherMapHandler {
 
     // ⚠️ QUAN TRỌNG: Hãy thay dòng bên dưới bằng API Key của bạn
-    private static final String API_KEY = "cf5c1dc3b89d213445dc0f3c1de3a3c4";
+    private static final String API_KEY = "";
 
     // URL lấy thời tiết hiện tại
     private static final String CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=metric&lang=vi";
